@@ -1,3 +1,5 @@
+import pyshorteners
+
 
 url = input("Please enter link:  ")
 shortener = pyshorteners.Shortener()
